@@ -30,7 +30,8 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:background="@color/colorPrimary"
-            app:itemIconTint="@color/colorNavIcon"
-            app:itemTextColor="@color/colorNavText"
+            app:itemIconTint="@drawable/tab_color"
+            app:itemTextColor="@drawable/tab_color"
+            app:labelVisibilityMode="labeled"
             app:menu="@menu/bottom_nav" />
     </RelativeLayout>

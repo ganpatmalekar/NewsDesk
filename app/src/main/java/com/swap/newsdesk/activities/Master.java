@@ -28,6 +28,7 @@ public class Master extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         loadFragment(new TopHeadelines());
+
         bottomNavigationView = findViewById(R.id.bottom_navigation);
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
