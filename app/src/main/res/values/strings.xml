@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Desk</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string-array name="categories">
+        <item>Select Category</item>
+        <item>Business</item>
+        <item>General</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Technology</item>
+    </string-array>
+
+    <string name="error_network_timeout">Timeout Error</string>
+    <string name="error_network">Please check your network connection</string>
+</resources>
