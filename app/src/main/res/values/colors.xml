@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#D32F2F</color>
     <color name="colorAccent">#FF8A80</color>
     <color name="placeholder_bg">#dddddd</color>
+
+
+    <color name="colorNavIcon">#dae9f6</color>
+    <color name="colorNavText">#01294b</color>
 </resources>
